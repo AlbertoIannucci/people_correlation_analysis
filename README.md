@@ -38,7 +38,7 @@ Mostrare come eseguire analisi delle correlazioni utilizzando Python 🐍
 
 ## 📊 Risultati Chiave
 
-**Variabile maggiormente correlata alla variabile target**:
+**Variabile maggiormente correlata alla variabile target**: relationship (cramer 0.45, grado di dipendenza media)
 
 ## 🔒 Licenza
 
